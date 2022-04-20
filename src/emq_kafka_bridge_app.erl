@@ -13,7 +13,7 @@
 %% See the License for the specific language governing permissions and
 %% limitations under the License.
 %%--------------------------------------------------------------------
--emqx_plugin(?MODULE)
+-emqx_plugin(?MODULE).
 
 -module(emq_kafka_bridge_app).
 
